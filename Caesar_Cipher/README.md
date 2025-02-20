@@ -54,10 +54,7 @@ The cipher uses modular arithmetic to shift characters:
 Non-alphabetic characters are preserved without modification.
 
 ## Live Demo
-You can test the cipher online:
-1. Visit [PythonTutor](https://pythontutor.com/render.html) or [Replit](https://replit.com/)
-2. Copy-paste the code into a new Python project
-3. Run and experiment with different inputs
+https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=10&uniqifier=1
 
 ## Caesar Cipher Basics
 **Encryption Formula:**  
