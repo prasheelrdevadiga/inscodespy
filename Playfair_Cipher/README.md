@@ -89,14 +89,7 @@ Key: "monarchy"
 - Always uses lowercase for processing
 - Limited error handling for invalid input
 
-## References
-- [Playfair Cipher Explanation](https://www.geeksforgeeks.org/playfair-cipher-with-examples/)
-- [Historical Background](https://www.cryptomuseum.com/crypto/playfair/)
+
 
 ## Live Demo
-Test the cipher online using:
-1. [Replit Online Python Editor](https://replit.com/)
-2. [OneCompiler Python](https://onecompiler.com/python)
-
-## License
-[MIT License](https://opensource.org/licenses/MIT)
+https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=54&uniqifier=1
