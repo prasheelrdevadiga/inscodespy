@@ -97,6 +97,5 @@ https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scroll
 
 ---
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/) - Free for educational use.
+
 
