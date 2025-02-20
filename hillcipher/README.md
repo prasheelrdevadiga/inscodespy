@@ -110,8 +110,7 @@ Decrypted: MATH
 ---
 
 ## Live Demo
-Test with online Python interpreters:
-1. [Replit](https://replit.com/)
+https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=60&uniqifier=1
 2. [PythonTutor](https://pythontutor.com/render.html)
 
 ---
