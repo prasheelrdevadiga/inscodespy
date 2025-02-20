@@ -93,9 +93,7 @@ Decrypted: world
 ---
 
 ## Live Demo
-Test with online Python interpreters:
-1. [Replit](https://replit.com/)
-2. [PythonTutor](https://pythontutor.com/render.html)
+https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=42&uniqifier=1
 
 ---
 
