@@ -111,10 +111,7 @@ Decrypted: MATH
 
 ## Live Demo
 https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=60&uniqifier=1
-2. [PythonTutor](https://pythontutor.com/render.html)
 
 ---
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/) - Free for educational use.
 
