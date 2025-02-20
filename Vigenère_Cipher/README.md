@@ -94,12 +94,4 @@ Decrypted: security
 ---
 
 ## Live Demo
-Test with online Python interpreters:
-1. [Replit](https://replit.com/)
-2. [PythonTutor](https://pythontutor.com/render.html)
-
----
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/) - Free for educational use.
-
+https://colab.research.google.com/drive/1ggChPjfgLNRMG3t_574T-FTsiZSAuGAG#scrollTo=0SEzQOelqeFs&line=37&uniqifier=1
